@@ -1,0 +1,3 @@
+/mnt/c/Users/lekka/OneDrive/Desktop/pytorch-Assignments/Assignment-2/pybind/build/CMakeFiles/custom.dir
+/mnt/c/Users/lekka/OneDrive/Desktop/pytorch-Assignments/Assignment-2/pybind/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lekka/OneDrive/Desktop/pytorch-Assignments/Assignment-2/pybind/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/mnt/c/Users/lekka/OneDrive/Desktop/Pytorch-Assignments/Assignment-2/src/build/CMakeFiles/ops.dir
+/mnt/c/Users/lekka/OneDrive/Desktop/Pytorch-Assignments/Assignment-2/src/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lekka/OneDrive/Desktop/Pytorch-Assignments/Assignment-2/src/build/CMakeFiles/rebuild_cache.dir
