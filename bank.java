@@ -127,6 +127,10 @@ public class bank{
 
 
 }
+System.out.println("3. Write to a file");
+System.out.println("4. Edit a file");
+System.out.println("5. Display contents of a file");
+System.out.println("6. Exit");
 
 
 
